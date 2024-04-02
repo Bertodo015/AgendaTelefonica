@@ -1,0 +1,12 @@
+:root {
+    --text-color: #FFFFFF;
+    --border-color1: #ddd;
+    --border-color2: #ccc;
+    --outline-color: #292f36;
+    --box-background: rgb(255, 0, 84);
+    --shadow-color1: rgba(158, 0, 90, 0.623);
+    --shadow-color2: rgba(158, 0, 90, 0.692);
+    --button-color: rgb(158, 0,90);
+    --button-text-color:  #ffffff;
+    --background: black;/*rgb(57, 0, 153);*/
+}
